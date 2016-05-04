@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1462340307 source:c:\users\ali abdulla\desktop\cpp\nugget\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<math.h>
+	"Move.h"
+	"Calculation.h"
+
+1462339482 c:\users\ali abdulla\desktop\cpp\nugget\move.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1462340205 c:\users\ali abdulla\desktop\cpp\nugget\calculation.h
+	<vector>
+	<iostream>
+
+1462339889 source:c:\users\ali abdulla\desktop\cpp\nugget\move.cpp
+	"Move.h"
+
+1462340613 source:c:\users\ali abdulla\desktop\cpp\nugget\calculation.cpp
+	"Calculation.h"
+	<math.h>
+
